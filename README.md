@@ -2,7 +2,7 @@
 
 A holistic Flutter application designed to support students' mental health, productivity, and overall well-being through personalized tools and resources.
 
-![App Banner](https://via.placeholder.com/800x200?text=Student+Wellness+App) <!-- Replace with your actual banner image -->
+- Replace with your actual banner image -->
 
 ## Table of Contents
 - [Key Features](#key-features)

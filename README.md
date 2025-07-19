@@ -63,6 +63,11 @@ A holistic Flutter application designed to support students' mental health, prod
 - Dart 2.17.0+
 - iOS/Android device or emulator
 
+### APK LINK
+✓ Built build\app\outputs\flutter-apk\app-release.apk (23.3MB)
+<img width="1408" height="731" alt="Screenshot 2025-07-19 214302" src="https://github.com/user-attachments/assets/6df624c3-9efa-4af8-8c25-9309fc653d62" />
+
+
 ### Steps
 ```bash
 # Clone the repository
